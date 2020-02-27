@@ -1,0 +1,13 @@
+.app-mapinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .app-mapinfo__card {
+    width: 400px;
+    height: 400px;
+  }
+  .app-mapinfo__text {
+    padding: 10px;
+    font-size: 20px;
+  }
+}
